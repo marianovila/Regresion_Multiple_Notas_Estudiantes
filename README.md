@@ -2,7 +2,7 @@
 
 DESCRIPCIÓN: Práctica sobre regresión múltiple
 
-OBJETIVO: Intentaremos predecir la nota de lectura a partir de la nota de escritura y matemática.
+OBJETIVO: predecir la nota de lectura a partir de la nota de escritura y matemática.
 
 CONTENIDO DEL NOTEBOOK
 1.Tips regresión lineal múltiple.
